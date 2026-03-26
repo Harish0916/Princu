@@ -17,6 +17,7 @@ function App() {
         </div>
         <div>
           <h1>NexvoraTech</h1>
+          <h2>By <span style={{color:'orange'}}>Prince</span></h2>
           <p>
             this provide services for project level assitance
           </p>
